@@ -10,4 +10,4 @@ Python, SQL, Power BI, Excel, KNIME et GitHub.
 
 ## Projets
 
-Les projets sont organisés dans le dossier `Projets`.
+Les projets sont organisés par numéro.
