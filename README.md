@@ -2,7 +2,7 @@
 
 Ce dépôt regroupe les projets réalisés dans le cadre de ma formation Data Analyst chez OpenClassrooms.
 
-Chaque dossier contient les livrables du projet ainsi qu'une présentation des objectifs, des outils utilisés et des compétences développées.
+Chaque dossier contient les livrables du projet.
 
 ## Technologies utilisées
 
